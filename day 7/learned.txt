@@ -1,0 +1,24 @@
+CPP:
+    - Vector Sorting Method:
+            vector<int> vect;
+            //to sort this out
+            sort(vect.begin(),vect.end());
+    - Vector Erase Method:
+            vector<int> vec;
+            auto itt = vect.begin(); //iterator
+            vect.erase(itt);
+    - COUT manipulation:
+            hex : Prints in hexadecimal
+            setwidth(n) - sets the total width to n
+            showpos - Will show positive sign at begining
+            uppercase -  Make all alphabets upper cased
+            nouppercase - vice versa of uppercase
+            left - Incline our output to the left
+            right - Incline our output to the right
+            setfill("_") - To cover the left widths this will fill out the gaps with the given string
+            setprecision(n) - sets the ouput to only show n decimal numbers in a double or float
+            scientific - Sets the ouput to be in scientific notation format;
+            dec - reverts the ouput from hexadecimal/binary/* to decimal
+
+
+Thats it for today :-)

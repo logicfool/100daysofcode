@@ -1,0 +1,4 @@
+C++:
+    Struct method;
+    class - objects,Instances,operator definations.
+    string manipulation
