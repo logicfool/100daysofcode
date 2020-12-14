@@ -1,0 +1,8 @@
+1st week:
+    In this week started off on hackerrank started doing problems to learn c++ on way and must say I am pretty impressed with what I have learnt till now and am enjoying it ;-)
+    I learned about the basics of c++
+    Pointers,using If-else,loops,about arrays,maps,vectors,some stl methods like lower_bound tried doing a medium problem but failed but will try it again once my concepts of c are more clear,
+    then started to learn about classes,objects,operators(this was the trickiest and the most intresting) string manipulation and working with strings and little about methods and practices used while writing code in cpp
+
+    Overall pretty satisified and I am in love with c++ as before even trying I used to hate this language cuz I was a python nerd and never went to try something different But I LOVE THIS now...
+    will keep going and learn new things new languages and make myself better then who I am now!
