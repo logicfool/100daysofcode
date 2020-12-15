@@ -1,0 +1,17 @@
+CPP:
+    Inherited Functions:
+        class temp(){
+            public:
+            void hello(){
+                cout << "hello";
+            }
+        };
+
+        class inherited_temp: public temp{
+            public:
+                void hello1(){
+                    cout << "Hello1";
+                }
+        };
+
+    
