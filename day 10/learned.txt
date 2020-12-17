@@ -1,0 +1,5 @@
+CPP:
+    Templates:
+        Got to know about how to make templates and what is it used for stilll need to learn about it
+    Preprocessors:
+        Learned about the use of Preprocessors ad how is it defined!
