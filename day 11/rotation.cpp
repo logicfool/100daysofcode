@@ -8,19 +8,19 @@ using namespace std;
 int main(){
     int t_c;
     cin >> t_c;
-    int n,k;
-    for(int i=0;i<t_c;i++){
-	
+    
+    while(t_c--){
+	int n,k;
 	cin >> n >> k;
     //vector<int> numbers;
     int numbers[n];
 	for(int j=0;j<n;j++){
         cin >> numbers[j];
 	}
-    //k%=n;
+    k%=n;
     int temp1;
-    for(int jj = 0;jj<n;jj++){
-        temp1 = (jj+(n-k))%n;
+    for(int j = 0;j<n;j++){
+        temp1 = (j+(n-k))%n;
         cout << numbers[temp1] << " ";
     }
     }

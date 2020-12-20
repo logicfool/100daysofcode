@@ -1,0 +1,8 @@
+CPP:
+    array_rotation(hackerearth):
+        Finally FIgured it out altoh saw yt guys wrote exact same code still it did not work but nvm it did at last.
+    matrix - hackerearth:
+        Solved Matrices Inversion while programming for the first time ..
+
+
+All codes in the folder.
