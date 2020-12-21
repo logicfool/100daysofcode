@@ -1,0 +1,2 @@
+CPP:
+	Learned about loop detetction and also how bad I am at cpp yet need to practice more !
